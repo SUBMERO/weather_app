@@ -11,6 +11,7 @@ A beautiful and responsive weather application built using Flutter that displays
 🌐 Works on Web & Mobile
 
 🖼️ Screenshots
+==================
 ![Search View](image.png)
 ![Search View](image-1.png)
 ![Home View](image-2.png)
