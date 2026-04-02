@@ -1,5 +1,5 @@
 🌦️ Weather App
-==================
+===============
 A beautiful and responsive weather application built using Flutter that displays real-time weather data with clean UI and smooth performance
 
 📱 Features
